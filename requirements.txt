@@ -1,0 +1,8 @@
+flask
+flask_restful
+flask_wtf
+flask_jwt_extended
+pymongo             # MongoDB driver
+bcrypt              # Password hashing
+email_validator     # Email validation
+python-dotenv       # Environment variables management
